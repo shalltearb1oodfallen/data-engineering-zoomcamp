@@ -1,0 +1,5 @@
+question 1: 43244696
+question 2: 0 MB for the External Table and 317.94MB for the BQ Table
+question 3: 717748
+question 4: Partition by pickup_datetime Cluster on affiliated_base_number
+question 6: GCP Bucket
